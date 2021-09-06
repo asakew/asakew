@@ -2,7 +2,7 @@
 
 [![asakew's github stats](https://github-readme-stats.vercel.app/api?username=asakew&show_icons=true&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/asakew/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asakew&layout=compact&title_color=00FF00&icon_color=008000&text_color=00FF00&bg_color=000000)](https://github.com/asakew/)
-[![asakew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asakew)](https://github.com/anuraghazra/github-readme-stats)
+[![asakew's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asakew)]
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asakew&theme=react" alt="Akmal Sindorov Github Status" />
 </p>
