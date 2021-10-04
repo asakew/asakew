@@ -12,6 +12,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/asakew)](https://t.me/asakew)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asauz777@gmail.com)](mailto:asauz777@gmail.com)
 
+<img src="https://activity-graph.herokuapp.com/graph?username=asakew&theme=xcode" />
+<!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /> -->
+
 ------------
 GitMemory: https://gitmemory.com/asakew
 
