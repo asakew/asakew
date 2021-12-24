@@ -12,8 +12,8 @@
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/akmal-sindarov-52ab51187)](https://www.linkedin.com/mwlite/in/akmal-sindarov-52ab51187)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/asakew)](https://t.me/asakew)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asauz777@gmail.com)](mailto:asauz777@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/asakew)](https://t.me/asakew)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=asakew&theme=xcode" />
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /> -->
