@@ -3,6 +3,8 @@
 
 ![Welcome!](3Io4KmzAY.gif)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asakew&theme=github_dark" alt="info">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asakew&theme=github_dark&show_icons=true)](https://github.com/asakew/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asakew&theme=github_dark&layout=compact)](https://wakatime.com/@asakew)
 
 [![asakew's github stats](https://github-readme-stats.vercel.app/api?username=asakew&theme=github_dark&show_icons=true)](https://github.com/asakew/)
