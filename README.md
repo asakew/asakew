@@ -18,7 +18,10 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/asakew)](https://t.me/asakew)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=asakew&theme=xcode" />
-<!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /> -->
+<!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=asakew&margin-w=5&theme=radical" alt="info" />
+
 
 ------------
 GitMemory: https://gitmemory.com/asakew
