@@ -19,4 +19,4 @@
 
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=asakew&margin-w=5&theme=radical" alt="info" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=asakew&margin-w=5&theme=radical" alt="info" /> -->
