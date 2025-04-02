@@ -16,6 +16,15 @@ HTML, CSS, JavaScript, AJAX and JQuery, Bootstrap, Design UI/UX
 
 🔶 **Other:**
 Git/GitHub, Docker, WordPress, SEO optimization, MS Office
+
+🔶 **Hobby:**
+- Reading blogs / Learning new things
+- Listening to music
+- Playing games
+- Watching movies
+
+🔶 **Portfolio:**
+- [Telegram: Portfolio](https://t.me/s/asaKew_portfolio)
 __________
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asakew&theme=github_dark" alt="info"> -->
