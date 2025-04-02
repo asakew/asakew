@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Downloader</title>
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<!--    <link rel="icon" type="image/png" href="favicon.png">-->
+
+
+    <meta name="description" content="Free Instagram video and photo downloader - save Instagram content easily without watermarks">
+    <meta name="keywords" content="Instagram downloader, download Instagram videos, download Instagram photos, save Instagram content, free Instagram downloader">
+
+
+
+
+
+
+
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <i class="fab fa-instagram"></i>
+                <h1>Instagram Downloader</h1>
+            </div>
+            <p class="tagline">Download videos & photos from Instagram</p>
+        </header>
+
+        <main>
+            <div class="search-container">
+                <form id="download-form">
+                    <div class="input-group">
+                        <input 
+                            type="text" 
+                            id="instagram-url" 
+                            placeholder="Paste Instagram URL (post, reel, video)" 
+                            required
+                            autocomplete="off">
+                        <button type="submit" id="download-btn">
+                            <span class="btn-text">Download</span>
+                            <i class="fas fa-download"></i>
+                        </button>
+                    </div>
+                    <div class="url-examples">
+                        <p>Examples: instagram.com/p/CMAMhvgsVal/, instagram.com/reel/..., instagram.com/tv/...</p>
+                    </div>
+                </form>
+            </div>
+
+            <div class="loader-container" id="loader">
+                <div class="loader"></div>
+                <p>Getting your content...</p>
+            </div>
+
+            <div class="error-container" id="error-container">
+                <i class="fas fa-exclamation-circle"></i>
+                <p id="error-message">An error occurred</p>
+            </div>
+
+            <div class="results-container" id="results">
+                <h2>Your Download</h2>
+                <div class="media-content" id="media-content">
+                    <!-- Media items will be inserted here by JavaScript -->
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <div class="how-to-use">
+                <h3>How to Download Instagram Videos & Photos</h3>
+                <div class="steps">
+                    <div class="step">
+                        <div class="step-icon"><i class="fas fa-link"></i></div>
+                        <div class="step-content">
+                            <h4>Copy Link</h4>
+                            <p>Copy the URL of the Instagram post, reel, or video you want to download</p>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-icon"><i class="fas fa-paste"></i></div>
+                        <div class="step-content">
+                            <h4>Paste URL</h4>
+                            <p>Paste the copied URL into the input field above</p>
+                        </div>
+                    </div>
+                    <div class="step">
+                        <div class="step-icon"><i class="fas fa-download"></i></div>
+                        <div class="step-content">
+                            <h4>Download</h4>
+                            <p>Click the Download button and save your content</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="disclaimer">
+                <p>This tool is intended for personal use only. Please respect copyright and Instagram's Terms of Service.</p>
+            </div>
+
+            <div class="copyright">
+                <p>&copy; <span id="current-year"></span> Instagram Downloader - All rights reserved</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
