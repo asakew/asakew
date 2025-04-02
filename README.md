@@ -1,8 +1,22 @@
-<!-- Managing your profile README -->
-<!-- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
-
 ![Welcome!](3Io4KmzAY.gif)
 
+Akmal Sindarov 27 year / @asaKew
+
+🔶 **Beginner Backend Developer:**
+goLang, API RESTful
+
+🔶 **Web Framework:**
+goFiber, goGIN, goGorilla/Mux
+
+🔶 **Database:**
+MySQL, PostgreSQL/GORM + Redis
+
+🔶 **Frontend:**
+HTML, CSS, JavaScript, AJAX and JQuery, Bootstrap, Design UI/UX
+
+🔶 **Other:**
+Git/GitHub, Docker, WordPress, SEO optimization, MS Office
+__________
 
 <!--  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asakew&theme=github_dark" alt="info"> -->
 
@@ -11,7 +25,7 @@
 <!--  [![asakew's github stats](https://github-readme-stats.vercel.app/api?username=asakew&theme=github_dark&show_icons=true)](https://github.com/asakew/) -->
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asakew&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=asakew&theme=tokyonight_duo&hide_border=true&#41;]&#40;https://git.io/streak-stats&#41;)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asauz777@gmail.com)](mailto:asauz777@gmail.com)
