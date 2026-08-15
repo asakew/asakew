@@ -1,31 +1,70 @@
-![Welcome!](3Io4KmzAY.gif)
+# Hi, I'm Akmal Sindarov 👋
 
-Akmal Sindarov 27 year / @asaKew
+```go
+package main
 
-🔶 **Junior GoLang Developer:**
-goLang, API RESTful
+import "fmt"
 
-🔶 **Web Framework:**
-goFiber, goGIN, goGorilla/Mux
+type Developer struct {
+	Name     string
+	Age      int
+	Role     string
+	Location string
+}
 
-🔶 **Database:**
-MySQL, PostgreSQL/GORM + Redis
+func main() {
+	akmal := Developer {
+		Name: "Akmal Sindarov",
+		Age:  27,
+		Role: "Junior Go Backend Developer",
+	}
 
-🔶 **Frontend:**
-HTML, CSS, JavaScript, AJAX and JQuery, Bootstrap, Design UI/UX
+	fmt.Printf("Building scalable and efficient backend services.\n")
+}
+```
 
-🔶 **Other:**
-Git/GitHub, Docker, SEO optimization, MS Office
+### 🛠️ Tech Stack & Skills
 
-🔶 **Hobby:**
-- Reading blogs / Learning new things
-- Listening to music
-- Playing games
-- Watching movies
+```go
+package techstack
 
-🔶 **Portfolio:**
-- [Telegram: Portfolio](https://t.me/s/asaKew_portfolio)
+var (
+	Languages = []string{"Go (Golang)", "SQL", "HTML/CSS"}
+	
+	FrameworksAndLibs = []string{
+		"Gin", 
+		"Fiber", 
+		"Gorilla/Mux", 
+		"GORM",
+	}
+	
+	Databases = []string{"PostgreSQL", "Redis", "MySQL"}
+	
+	Tools = []string{"Docker", "Docker Compose", "Git"}
+)
+```
+
+### 🎯 Beyond Coding (Hobbies)
+
+```go
+package profile
+
+func GetHobbies() []string {
+	return []string{
+		"Reading tech blogs & learning new things",
+		"Listening to music",
+		"Playing games",
+		"Watching movies",
+	}
+}
+```
+
 __________
+
+### 📬 Connect with me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asauz777@gmail.com)](mailto:asauz777@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/asakew)](https://t.me/asakew)
+
+🔶 **Telegram Portfolio:**
+- [Telegram: Portfolio](https://t.me/s/asaKew_portfolio)
