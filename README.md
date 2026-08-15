@@ -47,7 +47,7 @@ var (
 ### 🎯 Beyond Coding (Hobbies)
 
 ```go
-package profile
+package hobbies
 
 func GetHobbies() []string {
 	return []string{
